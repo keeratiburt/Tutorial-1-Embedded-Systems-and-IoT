@@ -22,8 +22,15 @@ Software
 Instruction
 
 การติดตั้งโปรแกรม สำหรับ ESP32
-1. ตั้งค่า Arduino IDE ได้จากเว็บไซต์ https://www.arduino.cc/en/software
-2. ตั้งค่าและติดตั้ง driver เพื่อให้ใช้งาน ESP32 ได้โดยเข้าดูวิธีการตั้งค่า ESP32 ได้ที่ลิงค์ https://blog.thaieasyelec.com/espino32-ch2-how-to-develop-using-arduino-platform/
+1. ดาวน์โหลด Arduino IDE ได้จากเว็บไซต์ https://www.arduino.cc/en/software แนะนำเวอร์ชัน 2.0.3 จาก github
+2. ติดตั้ง ESP32 library โดยคลิกที่ File > Preferences และใส่ลิงค์ลงในช่อง Additional Boards Manager https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+4. คลิกที่ Boards Manager ดังรูป
+<img width="127" alt="image" src="https://github.com/user-attachments/assets/3093df80-92d9-4704-aefd-388fed2a8282">
+6. พิมพ์ "esp32" ลงในช่อง search และติดตั้ง esp32 by Espressif Systems เวอร์ชัน 2.0.1 ดังรูป
+<img width="326" alt="image" src="https://github.com/user-attachments/assets/5e275d7e-a7df-434b-af96-ca0d8533ca19">
+
+7. 
+
 
 ![asdfasdf](https://user-images.githubusercontent.com/125423996/218939893-fdf3ef3b-da7b-40d5-90e0-891c3fdd2c4d.JPG)
 
