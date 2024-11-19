@@ -30,8 +30,9 @@ Instruction
    <img width="326" alt="image" src="https://github.com/user-attachments/assets/5e275d7e-a7df-434b-af96-ca0d8533ca19"> <br>
 5. โดยดาวน์โหลดไฟล์ชื่อ CP210x_Universal_Windows_Driver.zip ใน Teams
 6. ติดตั้ง driver จากไฟล์ที่ดาวน์โหลดมาผ่าน Device Manager โดยการ update driver
-
-![asdfasdf](https://user-images.githubusercontent.com/125423996/218939893-fdf3ef3b-da7b-40d5-90e0-891c3fdd2c4d.JPG)
+7. หลังจากติดตั้ง driver เสร็จสิ้น ให้เชื่อมต่อ esp32 กับคอมพิวเตอร์ด้วยสาย micro USB
+8. เลือกบอร์ดที่เรากำลังใช้งาน ดังรูป <br>
+![asdfasdf](https://user-images.githubusercontent.com/125423996/218939893-fdf3ef3b-da7b-40d5-90e0-891c3fdd2c4d.JPG) <br>
 
 
 --------------------
