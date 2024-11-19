@@ -7,20 +7,14 @@ Objectives
 3.	รู้จัก digitalWrite
 4.	รู้จัก pinMode
 5.	รู้จัก delay
-6.	รู้จัก LED
-7.	รู้จักตัวต้านทาน
-8.	รู้จัก jumper
-9.	สามารถต่อวงจรไฟกระพริบได้
-10.	สามารถเขียนโปรแกรมสั่งงานให้ LED กระพริบได้ 
+6.	iู้จัก built-in LED
 
 
 Hardware
 1.	ESP32		    1
-2.	LED		      6
-3.	Jumper	    9
-4.	Breadboard  1
-5.	Computer	  1
-6.	microUSB	  1 
+2.	Breadboard  1
+3.	Computer	  1
+4.	microUSB	  1 
 
 Software
 1. Arduino IDE v
